@@ -1,0 +1,10 @@
+.\system_msp432e401y.o: RTE\Device\MSP432E401Y\system_msp432e401y.c
+.\system_msp432e401y.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\system_msp432e401y.o: C:\Users\EA\AppData\Local\Arm\Packs\TexasInstruments\MSP432E4_DFP\3.2.6\Device\Include\msp.h
+.\system_msp432e401y.o: C:\Users\EA\AppData\Local\Arm\Packs\TexasInstruments\MSP432E4_DFP\3.2.6\Device\Include\msp432e401y.h
+.\system_msp432e401y.o: C:\Users\EA\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h
+.\system_msp432e401y.o: C:\Users\EA\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h
+.\system_msp432e401y.o: C:\Users\EA\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h
+.\system_msp432e401y.o: C:\Users\EA\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h
+.\system_msp432e401y.o: C:\Users\EA\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h
+.\system_msp432e401y.o: C:\Users\EA\AppData\Local\Arm\Packs\TexasInstruments\MSP432E4_DFP\3.2.6\Device\Include\system_msp432e401y.h

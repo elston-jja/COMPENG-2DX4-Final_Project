@@ -1,0 +1,14 @@
+.\main.o: main.c
+.\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\main.o: PLL.h
+.\main.o: SysTick.h
+.\main.o: definitions.h
+.\main.o: uart.h
+.\main.o: I2C.h
+.\main.o: VL53L1X_api.h
+.\main.o: vl53l1_platform.h
+.\main.o: vl53l1_types.h
+.\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h

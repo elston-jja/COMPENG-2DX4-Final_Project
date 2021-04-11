@@ -1,0 +1,14 @@
+--cpu=Cortex-M4.fp.sp
+".\i2c.o"
+".\main.o"
+".\onboardleds.o"
+".\pll.o"
+".\systick.o"
+".\uart.o"
+".\vl53l1_platform.o"
+".\vl53l1x_api.o"
+".\startup_msp432e401y_uvision.o"
+".\system_msp432e401y.o"
+--ro-base 0x00000000 --entry 0x00000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\FinalProject.map" -o .\FinalProject.axf

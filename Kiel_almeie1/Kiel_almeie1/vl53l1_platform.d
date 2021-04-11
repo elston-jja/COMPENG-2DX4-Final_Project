@@ -1,0 +1,13 @@
+.\vl53l1_platform.o: vl53l1_platform.c
+.\vl53l1_platform.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\vl53l1_platform.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
+.\vl53l1_platform.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\vl53l1_platform.o: SysTick.h
+.\vl53l1_platform.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\vl53l1_platform.o: definitions.h
+.\vl53l1_platform.o: vl53l1_platform.h
+.\vl53l1_platform.o: vl53l1_types.h
+.\vl53l1_platform.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\vl53l1_platform.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\vl53l1_platform.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\vl53l1_platform.o: onboardLEDs.h
